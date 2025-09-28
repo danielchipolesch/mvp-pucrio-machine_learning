@@ -1,5 +1,11 @@
 # 📊 MVP de Machine Learning – Consignados na Folha de Pagamento
 
+![AI Banner](https://img.shields.io/badge/Machine%20Learning-MVP-blue?style=for-the-badge\&logo=python)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
+![Dataset](https://img.shields.io/badge/Dataset-Consignados-orange?style=for-the-badge)
+
+---
+
 ## 🧩 Sobre o Projeto
 
 Este repositório contém um **MVP (Minimum Viable Product)** de **Machine Learning** desenvolvido em Python e Jupyter Notebook.
@@ -64,11 +70,11 @@ Foi utilizado o seguinte algoritmo para problemas de Clusterização (não super
 ```bash
 📦 mvp-ml-consignados
  ┣ 📜 README.md
- ┣ 📓 mvp-clusterization.ipynb   # Notebook principal
+ ┣ 🐳 docker-compose.yml
  ┣ 📂 data
  ┃ ┗ 📜 consig_dataset.min.csv   # Dataset utilizado
- ┗ 📂 results
-    ┗ 📊 gráficos_e_metricas.png # Resultados do MVP
+ ┗ 📂 notebooks
+    ┗ 📓 mvp-clusterization.ipynb # Notebook principal
 ```
 
 ---
@@ -92,5 +98,3 @@ Foi utilizado o seguinte algoritmo para problemas de Clusterização (não super
 
 Feito com dedicação por **Daniel Chipolesch** 💡
 📌 [LinkedIn](https://br.linkedin.com/in/daniel-chipolesch-116719124) | 📌 [GitHub](https://github.com/danielchipolesch)
-
----
