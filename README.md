@@ -1,8 +1,9 @@
 # 📊 MVP de Machine Learning – Consignados na Folha de Pagamento
 
-![AI Banner](https://img.shields.io/badge/Machine%20Learning-MVP-blue?style=for-the-badge\&logo=python)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
-![Dataset](https://img.shields.io/badge/Dataset-Consignados-orange?style=for-the-badge)
+[![AI Banner](https://img.shields.io/badge/Machine%20Learning-MVP-blue?style=for-the-badge&logo=python)](https://github.com/danielchipolesch)
+[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)](https://github.com/danielchipolesch/mvp-pucrio-machine_learning/issues)
+[![Dataset](https://img.shields.io/badge/Dataset-Consignados-orange?style=for-the-badge)](https://raw.githubusercontent.com/danielchipolesch/mvp-pucrio-machine_learning/refs/heads/master/data/consig_dataset.min.csv)
+[![Open In Colab](https://img.shields.io/badge/Notebook-Google%20Colab-green?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/danielchipolesch/mvp-pucrio-machine_learning/blob/master/notebooks/mvp-clusterization.ipynb#scrollTo=e0d3d699)
 
 ---
 
